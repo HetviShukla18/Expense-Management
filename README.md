@@ -1,6 +1,6 @@
 # Expense-Management
 
-# Expense Management
+# Live Link - https://expense-management-one-kappa.vercel.app/
 
 A simple expense management application built with Bun.
 
@@ -32,4 +32,5 @@ A simple expense management application built with Bun.
 
 - [Bun](https://bun.sh/)
 - PostgreSQL
+
 
